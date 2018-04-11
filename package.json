@@ -1,6 +1,6 @@
 {
-  "name" : "Test",
-  "description" : "Test",
+  "name" : "Backup_Camp_Director_1",
+  "description" : "RP",
   "Version" : "1.5.0",
   "main" : "bot.js",
   "scripts" :  {
