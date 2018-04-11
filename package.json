@@ -6,8 +6,8 @@
   "scripts" :  {
     "start" : "node Backup_Camp_Director_1.js"
   }
-  "dependencies"  {
+  "dependencies" : {
     "Discord.js" : "11.1.0",
-    "request" "2.01.0"
+    "request" : "2.01.0"
   }
 }
