@@ -3,7 +3,7 @@
   "description" : "Test",
   "Version" : "0.0.0",
   "main" : "bot.js",
-  "scripts"  {
+  "scripts" :  {
     "start" : "node Backup_Camp_Director_1.js"
   }
   "dependencies"  {
