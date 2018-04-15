@@ -7,7 +7,7 @@
     "start" : "node Backup_Camp_Director_1.js"
   },
   "dependencies" : {
-     "nodejs": "9.11.1",
+     "node": "9.11.1",
     "Discord.js": "11.1.0",
     "request" : "2.81.0"
   }
