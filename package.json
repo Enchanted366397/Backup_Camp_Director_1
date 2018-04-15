@@ -1,14 +1,16 @@
 {
-  "name" : "Backup_Camp_Director_1",
-  "description" : "RP",
-  "Version" : "0.0.0",
-  "main" : "bot.js",
-  "scripts" :  {
-    "start" : "node Backup_Camp_Director_1.js"
-  },
-  "dependencies" : {
-     "node": "9.11.1",
-    "Discord.js": "11.1.0",
-    "request" : "2.81.0"
+    "name" : "Backup_Camp_Director_1",
+    "description" : "RP",
+    "Version" : "1.5.0",
+    "main" : "bot.js",
+    "scripts" :  {
+      "start" : "node Backup_Camp_Director_1.js"
+    },
+    "engines": {
+        "node": "9.11.1"
+    },
+    "dependencies" : {
+      "Discord.js": "11.1.0",
+      "request" : "2.81.0"
+    }
   }
-}
