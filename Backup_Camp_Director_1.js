@@ -25,4 +25,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('NDE2Nzk2Nzg2MDAzMjc5ODgz.Dak8pw.vDllmZ1ufiKzTbFtnRuYfgFsxws');
+client.login('TOKEN_HERE');
