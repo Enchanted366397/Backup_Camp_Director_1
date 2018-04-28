@@ -25,4 +25,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('TOKEN_HERE');
+client.login(process.env.token);
